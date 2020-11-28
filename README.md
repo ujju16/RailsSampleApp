@@ -12,4 +12,4 @@
 
 ##### TODO
 
-[x] Mettre en place un patch d'authentification
+* [  ] Mettre en place un patch d'authentification
