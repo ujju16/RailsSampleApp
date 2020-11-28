@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Tutoriel Ruby on Rails
 
-Things you may want to cover:
+### Application Exemple
 
-* Ruby version
+[tutoriel Ruby on Rails](http:rubyonrails.org)
 
-* System dependencies
+#### Mise en place des tests avec Rspec
 
-* Configuration
+`rails generate rspec:install`
 
-* Database creation
+##### TODO
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[ ] Mettre en place un patch d'authentification
